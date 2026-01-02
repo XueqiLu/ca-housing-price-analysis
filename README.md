@@ -59,5 +59,3 @@ Across the tested models, ensemble methods performed best. In particular:
 
 For full quantitative results, figures, and discussion, see the report PDF in `report/`.
 
-## Repository structure
-
