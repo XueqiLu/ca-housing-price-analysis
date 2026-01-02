@@ -27,7 +27,7 @@ This repository contains an end-to-end data science project on predicting **medi
 - Key features: location (longitude/latitude), housing age, rooms/bedrooms, population, households, median income, ocean proximity
 
 The dataset file used in this repository is:
-- `data/housing.csv`
+- `housing.csv`
 
 ## Approach summary
 
@@ -57,5 +57,5 @@ Across the tested models, ensemble methods performed best. In particular:
 - **XGBoost** achieved the strongest predictive performance among the tested models.
 - Robustness testing highlighted that some models (e.g., XGBoost) can be sensitive to feature perturbations, motivating further refinement.
 
-For full quantitative results, figures, and discussion, see the report PDF in `report/`.
+For full quantitative results, figures, and discussion, see the report PDF named `CA_report`.
 
